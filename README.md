@@ -38,6 +38,7 @@ tls = "off"
 ```
 
 **Following is what you need for this book:**
+
 This book is for innovators, digital transformers, and blockchain developers who want to build end-to-end, decentralized applications using the blockchain technology. If you want to scale your existing blockchain system across the enterprise, you will find this book useful, too. It adopts a practical approach to solving real problems in enterprises using a blend of theory and practice.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
