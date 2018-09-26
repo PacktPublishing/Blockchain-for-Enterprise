@@ -9,12 +9,12 @@ This is the code repository for [ Blockchain for Enterprise](https://www.packtpu
 ## What is this book about?
 The increasing growth in blockchain use is enormous, and it is changing the way business is done. Many leading organizations are already exploring the potential of blockchain. With this book, you will learn to build end-to-end enterprise-level decentralized applications and scale them across your organization to meet your company's needs. 
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-*Learn how to set up Raft/IBFT Quorum networks
-*Implement Quorum's privacy and security features
-*Write, compile, and deploy smart contracts
-*Learn to interact with Quorum using the web3.js JavaScript library
-*Learn how to execute atomic swaps between different networks
+This book covers the following exciting features:
+* Learn how to set up Raft/IBFT Quorum networks
+* Implement Quorum's privacy and security features
+* Write, compile, and deploy smart contracts
+* Learn to interact with Quorum using the web3.js JavaScript library
+* Learn how to execute atomic swaps between different networks
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788479742) today!
 
