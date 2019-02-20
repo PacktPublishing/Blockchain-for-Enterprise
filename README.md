@@ -1,8 +1,8 @@
 # Blockchain for Enterprise
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745"><img src="https://www.packtpub.com/sites/default/files/B08593_MockupCover.png" alt=" Blockchain for Enterprise" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745"><img src="https://www.packtpub.com/sites/default/files/B08593.png" alt=" Blockchain for Enterprise" height="256px" align="right"></a>
 
-This is the code repository for [ Blockchain for Enterprise](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745), published by Packt.
+This is the code repository for [Blockchain for Enterprise](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745), published by Packt.
 
 **Build scalable blockchain applications with privacy, interoperability, and permissioned features**
 
